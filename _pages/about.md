@@ -12,10 +12,12 @@ profile:
     <p>Office: 5-289</p>
     <p>Phone: (780)248-1852</p>
     <p>Address: 11-209 DICE (9211-116 Street NW)</p>
+    <br>
+    <p style="display:inline">Email: m+last_name@ualberta.ca</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 ## About Me
